@@ -14,3 +14,8 @@ git init
 ```
 git clone <repository link>
 ```
+## My Skills
+- [x] Flutter
+- [x] Dart
+- [x] GitHub
+- [x] Linux 
