@@ -6,3 +6,11 @@
 ![Aisf Imran Profile](
 https://avatars.githubusercontent.com/u/63271346?v=4
 )
+## How to initialize the repository with git?
+```
+git init
+```
+## How to clone the repository with git?
+```
+git clone <repository link>
+```
